@@ -57,15 +57,3 @@
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
-
-<h3 align="left">My GitHub Stats:</h3>
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sultan820&show_icons=true&theme=radical" alt="sultan820" />
-</p>
-
-<h3 align="left">My Top Repositories:</h3>
-<p align="left">
-  <a href="https://github.com/sultan820/Wilderness-Reserve">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sultan820&repo=Wilderness-Reserve&theme=radical" alt="Wilderness-Reserve" />
-  </a>
-</p>
