@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sultan Butt</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sultan820&label=Profile%20views&color=0e75b6&style=flat" alt="sultan820" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sultan820" alt="sultan820" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sultanbutt820" target="blank"><img src="https://img.shields.io/twitter/follow/sultanbutt820?logo=twitter&style=for-the-badge" alt="sultanbutt820" /></a> </p>
-
 - 🔭 I’m currently working on [Wilderness Reserve](https://wildernessreserve.com/)
 - 🌱 I’m currently learning **Serverless Architecture**
 - 👨‍💻 All of my projects are available at [My Projects](https://www.sultanbutt.com/projects)
@@ -14,6 +8,12 @@
 - 💬 Ask me about **React.js, Next.js, React Native, Node.js, Nest.js**
 - 📫 How to reach me: **sultanbutt820@gmail.com**
 - ⚡ Fun fact: **Did you know that GitHub hosts over 200 million repositories? It's the world's largest platform for collaborative software development, helping developers from all over the globe contribute to open-source projects and share code!**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sultan820&label=Profile%20views&color=0e75b6&style=flat" alt="sultan820" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sultan820" alt="sultan820" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/sultanbutt820" target="blank"><img src="https://img.shields.io/twitter/follow/sultanbutt820?logo=twitter&style=for-the-badge" alt="sultanbutt820" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
