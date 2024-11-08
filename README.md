@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sultanbutt820](https://medium.com/@sultanbutt820)
 
-- 💬 Ask me about **React.js,Next,js,React Native,Node.js,Nest.js**
+- 💬 Ask me about **React.js, Next,js, React Native, Node.js and Nest.js**
 
 - 📫 How to reach me **sultanbutt820@gmail.com**
 
