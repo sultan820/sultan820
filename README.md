@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sultan Butt</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
+<h3 align="center">A Passionate Full Stack Developer from Pakistan</h3>
 
 - 🔭 I’m currently working on [Wilderness Reserve](https://wildernessreserve.com/)
 - 🌱 I’m currently learning **Serverless Architecture**
@@ -14,15 +14,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sultan820" alt="sultan820" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sultanbutt820" target="blank"><img src="https://img.shields.io/twitter/follow/sultanbutt820?logo=twitter&style=for-the-badge" alt="sultanbutt820" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/sultanbutt820" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sultanbutt820" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/muhammad-sultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-sultan" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/19794088" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19794088" height="30" width="40" /></a>
-  <a href="https://instagram.com/sultan.butt_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sultan.butt_1" height="30" width="40" /></a>
-  <a href="https://medium.com/@sultanbutt820" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sultanbutt820" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -56,4 +47,13 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/sultanbutt820" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sultanbutt820" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/muhammad-sultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-sultan" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/19794088" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19794088" height="30" width="40" /></a>
+  <a href="https://instagram.com/sultan.butt_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sultan.butt_1" height="30" width="40" /></a>
+  <a href="https://medium.com/@sultanbutt820" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sultanbutt820" height="30" width="40" /></a>
 </p>
